@@ -1,0 +1,10 @@
+*.csv
+*.tsv
+*.tmp
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
